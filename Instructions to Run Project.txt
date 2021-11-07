@@ -1,0 +1,13 @@
+OverView :
+This Project Is Written In  React Native (Expo)  version (41.0.1)
+
+Steps to Run Project 
+1- Open Project 
+2- Run : npm install (to Install all dependiencies)
+3- you Will Find api and database structure in zip archive in the main directorey
+4- upload the api and database to hosting and connect code to database then change api link from code 
+https://stakfort.com/tailor/api/ --> domain/api/....
+5- Run : expo start : to run the project on your local host
+6- Scan Expo Code to Run On Your Local Mobile
+
+
